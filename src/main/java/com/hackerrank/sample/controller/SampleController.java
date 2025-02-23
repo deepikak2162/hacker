@@ -51,7 +51,7 @@ public class SampleController {
 			
 		}  
 		
-		dfg
+	
 		@CrossOrigin
 		@GetMapping("/sort/price")  
 		private ResponseEntity<SortedProducts[]> sorted_books()   
